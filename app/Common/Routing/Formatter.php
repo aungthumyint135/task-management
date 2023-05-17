@@ -6,11 +6,7 @@ namespace App\Common\Routing;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Request;
 
-/**
- * Class Formatter
- * @author Myo Thant Kyaw <myothantkyaw.dev@gmail.com>
- * @package Rest API Response Formatter
- */
+
 class Formatter
 {
     public static $instance;
